@@ -2,7 +2,7 @@ Hi there 👋
 
 My name is Thomas.
 
-I'm a software engineer who loves technology, development, open source and everything related to it and I currently live in Berlin, Germany.
+I'm a software engineer who loves technology, development, open source and everything related to it and I currently live in München, Germany.
 
 How you can find me.
 
